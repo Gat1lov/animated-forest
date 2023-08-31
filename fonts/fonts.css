@@ -1,0 +1,10 @@
+@font-face {
+    font-family: kamerik-heavy;
+    src: url(./kamerik205-heavy.woff2);
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: marriweather-regular;
+    src: url(./merriweather-regular-italic.woff2);
+}

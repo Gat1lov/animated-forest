@@ -1,0 +1,22 @@
+@import url(../fonts/fonts.css);
+
+@import url(../blocks/content/content.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__main-text/header__main-text.css);
+
+@import url(../blocks/layers/layers.css);
+@import url(../blocks/text-container/text-container.css);
+@import url(../blocks/layers/__container/layers__container.css);
+@import url(../blocks/layers/__item/layers__item.css);
+@import url(../blocks/layers/__item/_first/layers__item_first.css);
+@import url(../blocks/layers/__item/_second/layers__item_second.css);
+@import url(../blocks/layers/__item/_third/layers__item_third.css);
+@import url(../blocks/layers/__item/_fourth/layers__item_fourth.css);
+@import url(../blocks/layers/__item/_fifth/layers__item_fifth.css);
+@import url(../blocks/layers/__item/_sixth/layers__item_sixth.css);
+
+@import url(../blocks/text-container/__heading/text-container__heading.css);
+@import url(../blocks/text-container/__paragraph/text-container__paragraph.css);
+
+@import url(../blocks/web-button/web-button.css);

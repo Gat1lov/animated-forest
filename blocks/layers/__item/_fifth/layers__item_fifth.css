@@ -1,0 +1,6 @@
+.layers__item_fifth {
+    background-image: url(../../../../images/layer-5.png);
+    transform: translateZ(300px);
+    scale: .9;
+    pointer-events: none;
+}

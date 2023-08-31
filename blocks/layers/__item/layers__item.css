@@ -1,0 +1,9 @@
+.layers__item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    inset: -5vw;
+    background-size: cover;
+    background-position: center;
+}

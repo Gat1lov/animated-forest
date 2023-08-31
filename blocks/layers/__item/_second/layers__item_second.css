@@ -1,0 +1,5 @@
+.layers__item_second {
+    background-image: url(../../../../images/layer-2.png);
+    transform: translateZ(80px);
+    scale: .88;
+}

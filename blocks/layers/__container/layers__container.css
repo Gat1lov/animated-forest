@@ -1,0 +1,11 @@
+.layers__container {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    min-height: 500px;
+    ;
+    transform-style: preserve-3d;
+    transform: rotateX(var(--move-y)) rotateY(var(--move-x));
+    will-change: transform;
+    transition: transform 1s cubic-bezier(.05, .5, 0, 1);
+}

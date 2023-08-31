@@ -1,0 +1,19 @@
+.web-button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: calc((1vw + 1vh) * .71);
+    padding: calc((1vw + 1vh) * .7);
+    background-color: transparent;
+    color: white;
+    border-radius: 1em;
+    border: rgba(255, 255, 255, .3) 3px solid;
+    cursor: pointer;
+    transition: background-color .5s ease-in-out;
+
+}
+
+.web-button:hover {
+    background-color: white;
+    color: black;
+}

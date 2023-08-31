@@ -1,0 +1,5 @@
+.layers__item_first {
+    background-image: url(../../../../images/layer-1.jpg);
+    transform: translateZ(-55px);
+    scale: 1.06;
+}

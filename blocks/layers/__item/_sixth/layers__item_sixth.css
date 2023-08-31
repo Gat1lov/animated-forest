@@ -1,0 +1,5 @@
+.layers__item_sixth {
+    background-image: url(../../../../images/layer-6.png);
+    transform: translateZ(380px);
+    pointer-events: none;
+}

@@ -1,0 +1,5 @@
+.layers__item_fourth {
+    transform: translateZ(190px);
+    scale: .9;
+    pointer-events: none;
+}

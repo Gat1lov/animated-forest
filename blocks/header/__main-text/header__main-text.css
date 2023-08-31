@@ -1,0 +1,12 @@
+.header__main-text {
+    margin: 0;
+    color: white;
+    font-family: kamerik-heavy, sans-serif;
+    position: absolute;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: calc((1vw + 1vh) * 2.5);
+    left: calc(50% - calc((1vw + 1vh) * 11));
+    top: calc(calc((1vw + 1vh) * 2.5) * 2.5);
+    z-index: 1;
+}
