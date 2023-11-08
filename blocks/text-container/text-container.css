@@ -2,7 +2,7 @@
     display: block;
     color: white;
     font-family: kamerik-heavy, sans-serif;
-    font-size: calc((1vw + 1vh) * 2.5);
+    font-size: calc((1vw + 1vh) * 2);
     text-align: center;
     text-transform: uppercase;
     letter-spacing: calc((1vw + 1vh) * -.15);
